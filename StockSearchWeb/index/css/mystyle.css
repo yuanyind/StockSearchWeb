@@ -1,0 +1,9 @@
+body {
+    background-color: #285a7b;
+}
+.row {
+    padding-bottom: 10px;
+}
+.clearfix{
+    overflow: auto;
+}
